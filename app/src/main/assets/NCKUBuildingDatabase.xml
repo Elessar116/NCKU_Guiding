@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NCKUClassroomDatabase>
+
+
+	<Building CHName="K館">
+			<BuildingName>K館</BuildingName>
+	</Building>
+	<Building CHName="中正堂">
+			<BuildingName>中正堂</BuildingName>
+	</Building>
+	<Building CHName="總圖書館">
+			<BuildingName>總圖書館</BuildingName>
+	</Building>
+	<Building CHName="光復操場">
+			<BuildingName>光復操場</BuildingName>
+	</Building>
+	<Building CHName="自強操場">
+			<BuildingName>自強操場</BuildingName>
+	</Building>
+	<Building CHName="儀器設備大樓">
+			<BuildingName>儀器設備大樓</BuildingName>
+	</Building>
+	<Building code="A1" CHName="共同教室">
+			<BuildingName>共同教室</BuildingName>
+	</Building>
+	<Building code="31" CHName="數學系館">
+			<BuildingName>數學系館</BuildingName>
+			<Classroom code="3172">
+				<FloorName>1</FloorName>
+				<ClassroomName>3172</ClassroomName>
+			</Classroom>
+			<Classroom code="3173">
+				<FloorName>1</FloorName>
+				<ClassroomName>3173</ClassroomName>
+			</Classroom>
+			<Classroom code="3174">
+				<FloorName>1</FloorName>
+				<ClassroomName>3174</ClassroomName>
+			</Classroom>
+			<Classroom code="3175">
+				<FloorName>2</FloorName>
+				<ClassroomName>3175</ClassroomName>
+			</Classroom>
+			<Classroom code="3176">
+				<FloorName>2</FloorName>
+				<ClassroomName>3176</ClassroomName>
+			</Classroom>
+			<Classroom code="3177">
+				<FloorName>2</FloorName>
+				<ClassroomName>3177</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="32" CHName="化學系館">
+			<BuildingName>化學系館</BuildingName>
+			<Classroom code="3205">
+				<FloorName>1</FloorName>
+				<ClassroomName>有機實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="3211A">
+				<FloorName>1</FloorName>
+				<ClassroomName>綜合實驗室一</ClassroomName>
+			</Classroom>
+			<Classroom code="3211B">
+				<FloorName>1</FloorName>
+				<ClassroomName>綜合實驗室二</ClassroomName>
+			</Classroom>
+			<Classroom code="3267">
+				<FloorName>2</FloorName>
+				<ClassroomName>3268</ClassroomName>
+			</Classroom>
+			<Classroom code="3268">
+				<FloorName>2</FloorName>
+				<ClassroomName>3268</ClassroomName>
+			</Classroom>
+			<Classroom code="3274">
+				<FloorName>2</FloorName>
+				<ClassroomName>3274</ClassroomName>
+			</Classroom>
+			<Classroom code="3275">
+				<FloorName>2</FloorName>
+				<ClassroomName>3275</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="34" CHName="生科系館">
+			<BuildingName>生科系館</BuildingName>
+			<Classroom code="3414">
+				<FloorName>1</FloorName>
+				<ClassroomName>3414</ClassroomName>
+			</Classroom>
+	</Building>	
+	
+	<Building code="42" CHName="資訊系館">
+			<BuildingName>資訊系館</BuildingName>
+			<Classroom code="4201">
+				<FloorName>1</FloorName>
+				<ClassroomName>4201</ClassroomName>
+			</Classroom>
+			<Classroom code="4202">
+				<FloorName>1</FloorName>
+				<ClassroomName>4202</ClassroomName>
+			</Classroom>
+			<Classroom code="4217">
+				<FloorName>1</FloorName>
+				<ClassroomName>4217</ClassroomName>
+			</Classroom>
+			<Classroom code="4260">
+				<FloorName>2</FloorName>
+				<ClassroomName>4260</ClassroomName>
+			</Classroom>
+			<Classroom code="4261">
+				<FloorName>2</FloorName>
+				<ClassroomName>4261</ClassroomName>
+			</Classroom>
+			<Classroom code="4262">
+				<FloorName>2</FloorName>
+				<ClassroomName>4262</ClassroomName>
+			</Classroom>
+			<Classroom code="4263">
+				<FloorName>2</FloorName>
+				<ClassroomName>4263</ClassroomName>
+			</Classroom>
+			<Classroom code="4264">
+				<FloorName>2</FloorName>
+				<ClassroomName>4264</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="43" CHName="資源系館">
+			<BuildingName>資源系館</BuildingName>
+	</Building>
+	<Building code="45" CHName="土木系館">
+			<BuildingName>土木系館</BuildingName>
+			<Classroom code="4501">
+				<FloorName>1</FloorName>
+				<ClassroomName>4501</ClassroomName>
+			</Classroom>
+			<Classroom code="4502">
+				<FloorName>1</FloorName>
+				<ClassroomName>4502</ClassroomName>
+			</Classroom>
+			<Classroom code="4503">
+				<FloorName>1</FloorName>
+				<ClassroomName>4503</ClassroomName>
+			</Classroom>
+			<Classroom code="4504">
+				<FloorName>1</FloorName>
+				<ClassroomName>4504</ClassroomName>
+			</Classroom>
+			<Classroom code="4505">
+				<FloorName>1</FloorName>
+				<ClassroomName>4505</ClassroomName>
+			</Classroom>
+			<Classroom code="4506">
+				<FloorName>1</FloorName>
+				<ClassroomName>4506</ClassroomName>
+			</Classroom>
+			<Classroom code="4507">
+				<FloorName>1</FloorName>
+				<ClassroomName>4507</ClassroomName>
+			</Classroom>
+			<Classroom code="4509">
+				<FloorName>1</FloorName>
+				<ClassroomName>4509</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="46" CHName="水利系館">
+			<BuildingName>水利系館</BuildingName>
+			<Classroom code="4620">
+				<FloorName>2</FloorName>
+				<ClassroomName>4620</ClassroomName>
+			</Classroom>
+			<Classroom code="4622">
+				<FloorName>2</FloorName>
+				<ClassroomName>4622</ClassroomName>
+			</Classroom>
+			<Classroom code="4624">
+				<FloorName>2</FloorName>
+				<ClassroomName>4624</ClassroomName>
+			</Classroom>
+			<Classroom code="4625">
+				<FloorName>2</FloorName>
+				<ClassroomName>4625</ClassroomName>
+			</Classroom>
+			<Classroom code="4627">
+				<FloorName>2</FloorName>
+				<ClassroomName>4627</ClassroomName>
+			</Classroom>
+			<Classroom code="4646">
+				<FloorName>3</FloorName>
+				<ClassroomName>4646</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="06" CHName="建築研究大樓">
+			<BuildingName>建築研究大樓</BuildingName>
+	</Building>
+	<Building code="54" CHName="藝術所">
+			<BuildingName>藝術所</BuildingName>
+	</Building>
+	<Building code="57" CHName="醫技醫工館">
+			<BuildingName>醫技醫工館</BuildingName>
+			<Classroom code="5761">
+				<FloorName>3</FloorName>
+				<ClassroomName>5761</ClassroomName>
+			</Classroom>
+			<Classroom code="5776">
+				<FloorName>3</FloorName>
+				<ClassroomName>5776</ClassroomName>
+			</Classroom>
+			<Classroom code="5777">
+				<FloorName>3</FloorName>
+				<ClassroomName>5777</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="58" CHName="航太系館">
+			<BuildingName>航太系館</BuildingName>
+	</Building>	
+	<Building code="11" CHName="唯農大樓">
+			<BuildingName>唯農大樓</BuildingName>
+			<Classroom code="7115">
+				<FloorName>1</FloorName>
+				<ClassroomName>7115</ClassroomName>
+			</Classroom>
+			<Classroom code="7117">
+				<FloorName>1</FloorName>
+				<ClassroomName>7117</ClassroomName>
+			</Classroom>
+			<Classroom code="7202">
+				<FloorName>2</FloorName>
+				<ClassroomName>7202</ClassroomName>
+			</Classroom>
+			<Classroom code="7204">
+				<FloorName>2</FloorName>
+				<ClassroomName>7204</ClassroomName>
+			</Classroom>
+			<Classroom code="7206">
+				<FloorName>2</FloorName>
+				<ClassroomName>7206</ClassroomName>
+			</Classroom>
+			<Classroom code="7208">
+				<FloorName>2</FloorName>
+				<ClassroomName>7208</ClassroomName>
+			</Classroom>
+			<Classroom code="7215">
+				<FloorName>2</FloorName>
+				<ClassroomName>7215</ClassroomName>
+			</Classroom>
+			<Classroom code="7217">
+				<FloorName>2</FloorName>
+				<ClassroomName>7217</ClassroomName>
+			</Classroom>
+			<Classroom code="7302">
+				<FloorName>3</FloorName>
+				<ClassroomName>7302</ClassroomName>
+			</Classroom>
+			<Classroom code="7307">
+				<FloorName>3</FloorName>
+				<ClassroomName>7307</ClassroomName>
+			</Classroom>
+			<Classroom code="7401">
+				<FloorName>4</FloorName>
+				<ClassroomName>7401</ClassroomName>
+			</Classroom>
+			<Classroom code="7403">
+				<FloorName>4</FloorName>
+				<ClassroomName>7403</ClassroomName>
+			</Classroom>
+			<Classroom code="7404">
+				<FloorName>4</FloorName>
+				<ClassroomName>7404</ClassroomName>
+			</Classroom>
+			<Classroom code="7405">
+				<FloorName>4</FloorName>
+				<ClassroomName>7405</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="21" CHName="中文系館">
+			<BuildingName>中文系館</BuildingName>
+	</Building>
+	<Building code="26" CHName="修齊大樓">
+			<BuildingName>修齊大樓</BuildingName>
+	</Building>
+	<Building code="27" CHName="雲平大樓">
+			<BuildingName>雲平大樓</BuildingName>
+			<Floor code="1">
+				<FloorName>1</FloorName>
+				<Classroom code="03">
+					<ClassroomName>通識中心</ClassroomName>
+				</Classroom>
+			</Floor>		
+	</Building>
+	<Building code="34" CHName="生科系館">
+			<BuildingName>生科系館</BuildingName>
+	</Building>
+	<Building code="35" CHName="理化大樓">
+			<BuildingName>理化大樓</BuildingName>
+	</Building>
+	<Building code="41" CHName="工科系館">
+			<BuildingName>工科系館</BuildingName>
+	</Building>
+	<Building code="44" CHName="材料新館">
+			<BuildingName>材料新館</BuildingName>
+	</Building>
+	<Building code="47" CHName="環工系館">
+			<BuildingName>環工系館</BuildingName>
+	</Building>
+	<Building code="48" CHName="綜合大樓">
+			<BuildingName>綜合大樓</BuildingName>
+	</Building>
+	<Building code="49" CHName="物理二館">
+			<BuildingName>物理二館</BuildingName>
+	</Building>
+	<Building code="50" CHName="都計系館">
+			<BuildingName>都計系館</BuildingName>
+	</Building>
+	<Building code="52" CHName="醫學院">
+			<BuildingName>醫學院</BuildingName>
+			<Classroom code="第一講堂">
+				<FloorName>1</FloorName>
+				<ClassroomName>第一講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="第二講堂">
+				<FloorName>1</FloorName>
+				<ClassroomName>第二講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="第三講堂">
+				<FloorName>1</FloorName>
+				<ClassroomName>第三講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="第四講堂">
+				<FloorName>2</FloorName>
+				<ClassroomName>第四講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="104">
+				<FloorName>1</FloorName>
+				<ClassroomName>104</ClassroomName>
+			</Classroom>
+			<Classroom code="207">
+				<FloorName>2</FloorName>
+				<ClassroomName>207</ClassroomName>
+			</Classroom>
+			<Classroom code="201D">
+				<FloorName>2</FloorName>
+				<ClassroomName>201D</ClassroomName>
+			</Classroom>
+			<Classroom code="203D">
+				<FloorName>2</FloorName>
+				<ClassroomName>203D</ClassroomName>
+			</Classroom>
+			<Classroom code="304D">
+				<FloorName>3</FloorName>
+				<ClassroomName>304D</ClassroomName>
+			</Classroom>
+			<Classroom code="307">
+				<FloorName>3</FloorName>
+				<ClassroomName>307</ClassroomName>
+			</Classroom>			
+			<Classroom code="第四講堂">
+				<FloorName>4</FloorName>
+				<ClassroomName>第四講堂</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="53" CHName="空中大學">
+			<BuildingName>空中大學</BuildingName>
+	</Building>
+	<Building code="54" CHName="物治職治系館">
+			<BuildingName>物治職治系館</BuildingName>
+			<Classroom code="B02">
+				<FloorName>B1</FloorName>
+				<ClassroomName>B02</ClassroomName>
+			</Classroom>
+	</Building>
+	<Building code="55" CHName="測量系館">
+			<BuildingName>測量系館</BuildingName>
+	</Building>
+	<Building code="56" CHName="系統系館">
+			<BuildingName>系統系館</BuildingName>
+	</Building>
+	<Building code="60" CHName="軍訓館">
+			<BuildingName>軍訓館</BuildingName>
+	</Building>
+	<Building code="61" CHName="工管系館">
+			<BuildingName>工管系館</BuildingName>
+	</Building>
+	<Building code="62" CHName="交管系館">
+			<BuildingName>交管系館</BuildingName>
+	</Building>
+	<Building code="62" CHName="企管系館">
+			<BuildingName>企管系館</BuildingName>
+	</Building>
+	<Building code="62" CHName="統計系館">
+			<BuildingName>統計系館</BuildingName>
+	</Building>
+	<Building code="63" CHName="會計系館 ">
+			<BuildingName>會計系館 </BuildingName>
+	</Building>
+	<Building code="65" CHName="資訊新館 ">
+			<BuildingName>資訊新館 </BuildingName>
+			<Floor code="1">
+				<FloorName>1</FloorName>
+				<Classroom code="04">
+					<ClassroomName>65104</ClassroomName>
+				</Classroom>
+				<Classroom code="05">
+					<ClassroomName>65105</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="2">
+				<FloorName>2</FloorName>
+				<Classroom code="03">
+					<ClassroomName>65203</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="3">
+				<FloorName>3</FloorName>
+				<Classroom code="04">
+					<ClassroomName>65304</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="4">
+				<FloorName>4</FloorName>
+				<Classroom code="05">
+					<ClassroomName>65405</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="5">
+				<FloorName>5</FloorName>
+				<Classroom code="04">
+					<ClassroomName>65504</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="6">
+				<FloorName>6</FloorName>
+				<Classroom code="05">
+					<ClassroomName>65605</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="8">
+				<FloorName>8</FloorName>
+				<Classroom code="05">
+					<ClassroomName>65805</ClassroomName>
+				</Classroom>
+			</Floor>
+			<Floor code="A">
+				<FloorName>10</FloorName>
+				<Classroom code="13">
+					<ClassroomName>65A13</ClassroomName>
+				</Classroom>
+			</Floor>
+	</Building>
+	<Building code="75" CHName="計算機網路中心(資訊大樓)">
+			<BuildingName>計算機網路中心(資訊大樓)</BuildingName>
+	</Building>
+	<Building code="80" CHName="社科院大樓">
+			<BuildingName>社科院大樓</BuildingName>
+	</Building>
+	<Building code="81" CHName="K館後棟圖書部上方(光電系)">
+			<BuildingName>K館後棟圖書部上方(光電系)</BuildingName>
+	</Building>
+	<Building code="85" CHName="護理系館">
+			<BuildingName>護理系館</BuildingName>
+	</Building>
+	<Building code="88" CHName="台文系館">
+			<BuildingName>台文系館</BuildingName>
+	</Building>
+	<Building code="91" CHName="機械系館">
+		<BuildingName>機械系館</BuildingName>
+		<Floor code="Y">
+			<FloorName>B1</FloorName>
+			<Classroom code="01">
+				<ClassroomName>配電室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>桌球室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>消防室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>材料實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>材料實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>油氣壓實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>無名稱</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>無名稱</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>材料實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>創意工廠</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>微射出成型與電鑄實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>無名稱</ClassroomName>
+			</Classroom>
+			<Classroom code="13">
+				<ClassroomName>報廢品儲藏室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="X">
+			<FloorName>B1</FloorName>
+			<Classroom code="01">
+				<ClassroomName>熱流科學實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>熱流科學實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>何清政教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>電子顯微鏡研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>創意工廠</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>撞擊力學研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>熱流科學實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>微射出成型與電鑄實驗室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="1">
+			<FloorName>1</FloorName>
+			<Classroom code="01">
+				<ClassroomName>象賢講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>102教室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>103教室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>俊銘講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>三星講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>管理中心</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="2">
+			<FloorName>2</FloorName>
+			<Classroom code="01">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>機四教室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>三甲教室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>三乙教室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>三丙教室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>二甲教室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>二乙教室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>系會辦公室</ClassroomName>
+			</Classroom>			
+		</Floor>
+		<Floor code="3">
+			<FloorName>3</FloorName>
+			<Classroom code="01">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>二丙教室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>一甲教室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>一乙教室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>電子電路教學實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>製圖教室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>一丙教室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>模型室</ClassroomName>
+			</Classroom>			
+		</Floor>
+		<Floor code="4">
+			<FloorName>4</FloorName>			
+			<Classroom code="02">
+				<ClassroomName>馬承九教授書房</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>兼任教授室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>夏漢民榮譽教授</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>討論室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>君地閱覽室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>會議室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>會議室</ClassroomName>
+			</Classroom>	
+			<Classroom code="13">
+				<ClassroomName>副主任室</ClassroomName>
+			</Classroom>	
+			<Classroom code="14">
+				<ClassroomName>系主任室</ClassroomName>
+			</Classroom>
+			<Classroom code="15">
+				<ClassroomName>系辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="16">
+				<ClassroomName>系辦公室</ClassroomName>
+			</Classroom>				
+		</Floor>
+		<Floor code="5">
+			<FloorName>5</FloorName>
+			<Classroom code="01">
+				<ClassroomName>張怡伶教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>李榮顯教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>張仁宗教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>陳玉彬教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>劉彥辰教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>李偉賢教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>李克讓榮譽教授</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>賴新一教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>林昌進教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>教職員聯誼室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>顏鴻森教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>楊玉姿教授辦公室</ClassroomName>
+			</Classroom>	
+			<Classroom code="13">
+				<ClassroomName>洪振益教授辦公室</ClassroomName>
+			</Classroom>	
+			<Classroom code="14">
+				<ClassroomName>機械工程學刊</ClassroomName>
+			</Classroom>
+			<Classroom code="15">
+				<ClassroomName>陳聯文教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="16">
+				<ClassroomName>陳寒濤教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="17">
+				<ClassroomName>陳朝光教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="18">
+				<ClassroomName>蔡明祺教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="19">
+				<ClassroomName>邱顯堂教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="20">
+				<ClassroomName>何清政教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="21">
+				<ClassroomName>黃文敏教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="22">
+				<ClassroomName>林仁輝教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="23">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="24">
+				<ClassroomName>林大惠教授辦公室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="6">
+			<FloorName>6</FloorName>
+			<Classroom code="01">
+				<ClassroomName>伺服器、網路控制室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>電腦教室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>奈米科技實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>機械量測實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>邱澄彬教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>蘇演良教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>陳元方教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>藍兆杰教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>王俊志教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>鍾震桂教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="13">
+				<ClassroomName>羅裕龍教授辦公室</ClassroomName>
+			</Classroom>	
+			<Classroom code="14">
+				<ClassroomName>蔡南全教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="15">
+				<ClassroomName>吳俊煌教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="16">
+				<ClassroomName>李永春教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="17">
+				<ClassroomName>張錦裕教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="18">
+				<ClassroomName>吳明勳教授辦公室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="7">
+			<FloorName>7</FloorName>
+			<Classroom code="01">
+				<ClassroomName>陳鐵城教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>吳志陽教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>李森墉教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>劉至行教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>李樺登教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>許來興教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>翁政義榮譽教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>田思齊教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>林震銘教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>陳國聲教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>楊天祥教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>蔡明俊教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="13">
+				<ClassroomName>溫昌達教授辦公室</ClassroomName>
+			</Classroom>	
+			<Classroom code="14">
+				<ClassroomName>李汶樺教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="15">
+				<ClassroomName>吳馬丁教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="16">
+				<ClassroomName>褚晴暉教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="17">
+				<ClassroomName>王逸君教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="18">
+				<ClassroomName>黃聖杰教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="19">
+				<ClassroomName>施明璋教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="20">
+				<ClassroomName>施士塵教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="21">
+				<ClassroomName>陳家豪教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="22">
+				<ClassroomName>林啟倫教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="23">
+				<ClassroomName>蔡清元教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="24">
+				<ClassroomName>方晶晶教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="25">
+				<ClassroomName>黃才炯教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="26">
+				<ClassroomName>屈子正教授辦公室</ClassroomName>
+			</Classroom>
+			<Classroom code="27">
+				<ClassroomName>朱銘祥教授辦公室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="8">
+			<FloorName>8</FloorName>
+			<Classroom code="01">
+				<ClassroomName>生物擬真安全設計研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>藍兆杰教授實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>創造性機器設計教研室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>CAD應用研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>虛擬實境與多媒體研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>機器人與自動化研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>劉至行教授實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>邱顯堂教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>陳家豪教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>機構設計研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>奈米磨潤研究室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="9">
+			<FloorName>9</FloorName>
+			<Classroom code="01">
+				<ClassroomName>顯微分析與失效診斷研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="02a">
+				<ClassroomName>金屬成型研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="02b">
+				<ClassroomName>無名稱</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>CAD高分子材料加工研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>雷射精密工程研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>材料科技暨磨潤研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>無名稱</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>塑膠模具研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>林昌進教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>微奈米材料與加工研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>系統工程研究室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="A">
+			<FloorName>10</FloorName>
+			<Classroom code="01">
+				<ClassroomName>熱應力分析研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>吳馬丁教授實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>控制與自動化教學實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>光測力學研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>計算力學研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>機電與微系統動態實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>非破壞性檢測研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>陳聯文教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>微光電感測研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>力學與系統研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>破壞力學研究室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="B">
+			<FloorName>11</FloorName>
+			<Classroom code="01">
+				<ClassroomName>熱交換器研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>吳志陽研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>B尖端材料與製程實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>楊天祥教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>生物擬真安全設計研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>微系統與控制研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>逆向問題研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>熱流與機電整合研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="10">
+				<ClassroomName>熱流計算研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>生醫粒子影像測速儀研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>磨潤及傳動研究室</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="C">
+			<FloorName>12</FloorName>
+			<Classroom code="01">
+				<ClassroomName>製程與系統實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="02">
+				<ClassroomName>溫昌達教授研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="03">
+				<ClassroomName>焚而不燬研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="04">
+				<ClassroomName>研討室</ClassroomName>
+			</Classroom>
+			<Classroom code="05">
+				<ClassroomName>多相流研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="06">
+				<ClassroomName>生物機械工程公共實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="07">
+				<ClassroomName>機器人系統與控制研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="08">
+				<ClassroomName>伺服控制實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="09">
+				<ClassroomName>光機電系統控制實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="10b">
+				<ClassroomName>流體傳動與控制實驗室</ClassroomName>
+			</Classroom>
+			<Classroom code="11">
+				<ClassroomName>人機系統研究室</ClassroomName>
+			</Classroom>
+			<Classroom code="12">
+				<ClassroomName>準分子雷射公共實驗室</ClassroomName>
+			</Classroom>
+		</Floor>
+	</Building>		
+	<Building code="92" CHName="電機系館">
+		<BuildingName>電機系館</BuildingName>
+		<Floor code="X">
+			<FloorName>B1</FloorName>
+			<Classroom code="18">
+				<ClassroomName>92X18</ClassroomName>
+			</Classroom>
+			<Classroom code="25">
+				<ClassroomName>92X25</ClassroomName>
+			</Classroom>
+			<Classroom code="31">
+				<ClassroomName>令洋廳</ClassroomName>
+			</Classroom>					
+		</Floor>
+		<Floor code="1">
+			<FloorName>1</FloorName>
+			<Classroom code="19">
+				<ClassroomName>靄雲廳</ClassroomName>
+			</Classroom>
+			<Classroom code="27">
+				<ClassroomName>繁城講堂</ClassroomName>
+			</Classroom>
+			<Classroom code="71">
+				<ClassroomName>92171</ClassroomName>
+			</Classroom>
+			<Classroom code="77">
+				<ClassroomName>92177</ClassroomName>
+			</Classroom>
+			<Classroom code="85">
+				<ClassroomName>92185</ClassroomName>
+			</Classroom>					
+		</Floor>
+		<Floor code="2">
+			<FloorName>2</FloorName>
+			<Classroom code="19">
+				<ClassroomName>92219</ClassroomName>
+			</Classroom>
+			<Classroom code="25">
+				<ClassroomName>92225</ClassroomName>
+			</Classroom>
+			<Classroom code="31">
+				<ClassroomName>92231</ClassroomName>
+			</Classroom>
+			<Classroom code="71">
+				<ClassroomName>92271</ClassroomName>
+			</Classroom>
+			<Classroom code="77">
+				<ClassroomName>92277</ClassroomName>
+			</Classroom>
+			<Classroom code="83">
+				<ClassroomName>92283</ClassroomName>
+			</Classroom>			
+		</Floor>
+		<Floor code="3">
+			<FloorName>3</FloorName>
+			<Classroom code="25">
+				<ClassroomName>92325</ClassroomName>
+			</Classroom>
+			<Classroom code="31">
+				<ClassroomName>92331</ClassroomName>
+			</Classroom>
+			<Classroom code="71">
+				<ClassroomName>92371</ClassroomName>
+			</Classroom>
+			<Classroom code="77">
+				<ClassroomName>92377</ClassroomName>
+			</Classroom>
+			<Classroom code="83">
+				<ClassroomName>92383</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="4">
+			<FloorName>4</FloorName>
+			<Classroom code="17">
+				<ClassroomName>92417</ClassroomName>
+			</Classroom>
+			<Classroom code="23">
+				<ClassroomName>92423</ClassroomName>
+			</Classroom>
+			<Classroom code="25">
+				<ClassroomName>92425</ClassroomName>
+			</Classroom>
+			<Classroom code="33">
+				<ClassroomName>92433</ClassroomName>
+			</Classroom>
+			<Classroom code="53">
+				<ClassroomName>92453</ClassroomName>
+			</Classroom>
+			<Classroom code="73">
+				<ClassroomName>92473</ClassroomName>
+			</Classroom>
+			<Classroom code="91">
+				<ClassroomName>92491</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="5">
+			<FloorName>5</FloorName>			
+			<Classroom code="23">
+				<ClassroomName>92523</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="7">
+			<FloorName>7</FloorName>			
+			<Classroom code="20">
+				<ClassroomName>92720</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="8">
+			<FloorName>8</FloorName>			
+			<Classroom code="20">
+				<ClassroomName>92820</ClassroomName>
+			</Classroom>
+			<Classroom code="79">
+				<ClassroomName>92879</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="9">
+			<FloorName>9</FloorName>			
+			<Classroom code="26">
+				<ClassroomName>92926</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="A">
+			<FloorName>10</FloorName>			
+			<Classroom code="02">
+				<ClassroomName>92A02</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="B">
+			<FloorName>11</FloorName>			
+			<Classroom code="28">
+				<ClassroomName>92B28</ClassroomName>
+			</Classroom>
+		</Floor>
+		<Floor code="C">
+			<FloorName>12</FloorName>			
+			<Classroom code="01">
+				<ClassroomName>92C01</ClassroomName>
+			</Classroom>
+		</Floor>
+	</Building>
+	<Building code="93" CHName="化工系館">
+		<BuildingName>化工系館</BuildingName>
+	</Building>
+	<Building code="95" CHName="照坤精密儀器大樓">
+			<BuildingName>照坤精密儀器大樓</BuildingName>
+	</Building>
+</NCKUClassroomDatabase>

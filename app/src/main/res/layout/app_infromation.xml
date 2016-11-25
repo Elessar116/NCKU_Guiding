@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/nav_header_vertical_spacing"
+    android:paddingRight="@dimen/nav_header_vertical_spacing">
+
+    <TextView
+        android:text="\t籌畫及功能整合 : 黃子軒\n\t教室資料庫查詢 : 陳紀融\n\t校園立體建模 : 林俊仲, 林德佑\n\t2016/11, ver a0.8.0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+
+</LinearLayout>

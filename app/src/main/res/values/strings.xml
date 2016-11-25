@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NCKU Guiding</string>
+
+    <string name="navigation_drawer_open">Open MENU</string>
+    <string name="navigation_drawer_close">Close MENU</string>
+
+    <string name="navi_ar">AR</string>
+    <string name="navi_bug">Bug Report</string>
+    <string name="navi_class">Classroom</string>
+    <string name="navi_contact">Contact</string>
+    <string name="navi_info">Information</string>
+    <string name="navi_navigate">Navigation</string>
+    <string name="navi_park">Parking</string>
+    <string name="theme">3D Campus Guiding</string>
+    <string name="action_settings">Clear Classroom Info</string>
+</resources>

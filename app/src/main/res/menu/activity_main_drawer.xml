@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_arfunc"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="@string/navi_ar" />
+        <item
+            android:id="@+id/nav_class"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="@string/navi_class"/>
+        <item
+            android:id="@+id/nav_park"
+            android:icon="@android:drawable/stat_notify_voicemail"
+            android:title="@string/navi_park" />
+        <item
+            android:id="@+id/nav_navigate"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/navi_navigate" />
+    </group>
+
+    <item android:title="@string/navi_contact">
+        <menu>
+            <item
+                android:id="@+id/nav_bug"
+                android:icon="@android:drawable/ic_menu_send"
+                android:title="@string/navi_bug" />
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="@string/navi_info" />
+        </menu>
+    </item>
+
+</menu>

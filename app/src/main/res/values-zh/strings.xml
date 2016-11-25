@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">成境巡遊</string>
+    <string name="action_settings">清理教室查詢</string>
+    <string name="navi_ar">AR</string>
+    <string name="navi_bug">錯誤回報</string>
+    <string name="navi_class">教室查詢</string>
+    <string name="navi_contact">聯繫</string>
+    <string name="navi_info">資訊</string>
+    <string name="navi_navigate">路線導航</string>
+    <string name="navi_park">停車資訊</string>
+    <string name="navigation_drawer_close">關閉功能表</string>
+    <string name="navigation_drawer_open">開啟功能表</string>
+    <string name="theme">3D校園導覽</string>
+</resources>
